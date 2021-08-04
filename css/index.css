@@ -1285,6 +1285,19 @@ body {
 input::placeholder {
   color: var(--font-color);
 }
+#web_bg {
+  position: fixed;
+  z-index: -999;
+  width: 100%;
+  height: 100%;
+  background: url(/file/background.jpg);
+  background-attachment: local;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 h1,
 h2,
 h3,
@@ -3403,7 +3416,7 @@ blockquote footer cite:before {
   transition: all 0.5s;
 }
 #page-header.full_page {
-  height: 400px;
+  height: 300px;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
@@ -3839,6 +3852,33 @@ blockquote footer cite:before {
 }
 #nav .site-page:not(.child):hover:after {
   width: 100%;
+}
+#page-header {
+  background: transparent !important;
+}
+#footer {
+  background: transparent !important;
+}
+#page-header.post-bg::before {
+  background-color: rgba(0,0,0,0.25) !important;
+}
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+}
+#page-header.full_page {
+  background-color: rgba(0,0,0,0.25) !important;
+}
+[data-theme="dark"] #page-header.full_page {
+  background: transparent !important;
+}
+#page-header.post-bg {
+  height: 300px;
+}
+#footer::before {
+  background: rgba(0,0,0,0.25) !important;
 }
 #pagination {
   overflow: hidden;
