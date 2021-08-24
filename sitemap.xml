@@ -193,20 +193,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/Java/</loc>
-    <lastmod>2021-08-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
-    <lastmod>2021-08-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
@@ -215,6 +201,20 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/%E6%96%B0%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2021-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Java/</loc>
+    <lastmod>2021-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -251,14 +251,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/categories/%E6%B8%B8%E6%88%8F/%E6%A8%A1%E6%8B%9F%E9%A3%9E%E8%A1%8C/</loc>
+    <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Windows/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Windows/</loc>
+    <loc>https://blog.xujiayao.top/categories/%E6%B8%B8%E6%88%8F/%E6%A8%A1%E6%8B%9F%E9%A3%9E%E8%A1%8C/</loc>
     <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
