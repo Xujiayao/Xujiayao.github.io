@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/4ba0a17a/</loc>
+    <loc>https://blog.xujiayao.top/about/index.html</loc>
     
     <lastmod>2022-02-16</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/about/index.html</loc>
+    <loc>https://blog.xujiayao.top/posts/4ba0a17a/</loc>
     
-    <lastmod>2022-02-06</lastmod>
+    <lastmod>2022-02-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -223,20 +223,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/Java/</loc>
-    <lastmod>2022-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
-    <lastmod>2022-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2022-02-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -245,6 +231,20 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/%E6%96%B0%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2022-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Java/</loc>
+    <lastmod>2022-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
     <lastmod>2022-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
