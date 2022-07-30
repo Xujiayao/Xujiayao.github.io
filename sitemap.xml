@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
+    <loc>https://blog.xujiayao.top/posts/381c7e40/</loc>
     
     <lastmod>2022-04-21</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/381c7e40/</loc>
+    <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
     
     <lastmod>2022-04-21</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/62fbd8b8/</loc>
+    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
     
     <lastmod>2022-04-21</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
+    <loc>https://blog.xujiayao.top/posts/62fbd8b8/</loc>
     
     <lastmod>2022-04-21</lastmod>
     
@@ -246,20 +246,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/SFTP/</loc>
-    <lastmod>2022-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/Java/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -268,6 +254,20 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/SFTP/</loc>
     <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
