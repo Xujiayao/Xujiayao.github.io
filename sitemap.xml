@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
+    <loc>https://blog.xujiayao.top/posts/381c7e40/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/381c7e40/</loc>
+    <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
+    <loc>https://blog.xujiayao.top/posts/5a8a6c8d/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/5a8a6c8d/</loc>
+    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -197,13 +197,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,6 +205,13 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/Windows-Terminal/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
