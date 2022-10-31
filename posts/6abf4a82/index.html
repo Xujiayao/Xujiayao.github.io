@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>新年快乐！2020 年度报告 | Xujiayao's Blog</title><meta name="keywords" content="年度报告,2020"><meta name="author" content="Jason,xujiayao147258369@gmail.com"><meta name="copyright" content="Jason"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="实「鼠」不易，「牛」转乾坤。祝大家新年快乐！">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>新年快乐！2020 年度报告 | Xujiayao's Blog</title><meta name="author" content="Jason,xujiayao147258369@gmail.com"><meta name="copyright" content="Jason"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="实「鼠」不易，「牛」转乾坤。祝大家新年快乐！">
 <meta property="og:type" content="article">
 <meta property="og:title" content="新年快乐！2020 年度报告">
 <meta property="og:url" content="https://blog.xujiayao.top/posts/6abf4a82/index.html">
@@ -345,7 +345,6 @@ document.addEventListener('pjax:send', function () {
   window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
   window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
 
-  typeof preloader === 'object' && preloader.initLoading()
   document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
   
   if (window.aplayers) {
@@ -391,8 +390,6 @@ document.addEventListener('pjax:complete', function () {
 
   // prismjs
   typeof Prism === 'object' && Prism.highlightAll()
-
-  typeof preloader === 'object' && preloader.endLoading()
 })
 
 document.addEventListener('pjax:error', (e) => {

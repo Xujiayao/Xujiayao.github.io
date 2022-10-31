@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>群不日常连飞 RJFF - ZSSS | Xujiayao's Blog</title><meta name="keywords" content="模拟飞行,群连飞"><meta name="author" content="Jason,xujiayao147258369@gmail.com"><meta name="copyright" content="Jason"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="虽然已经到暑假了，群里的连飞活动还是跟开学时一样「不日常」。">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>群不日常连飞 RJFF - ZSSS | Xujiayao's Blog</title><meta name="author" content="Jason,xujiayao147258369@gmail.com"><meta name="copyright" content="Jason"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="虽然已经到暑假了，群里的连飞活动还是跟开学时一样「不日常」。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="群不日常连飞 RJFF - ZSSS">
 <meta property="og:url" content="https://blog.xujiayao.top/posts/62fbd8b8/index.html">
@@ -330,7 +330,6 @@ document.addEventListener('pjax:send', function () {
   window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
   window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
 
-  typeof preloader === 'object' && preloader.initLoading()
   document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
   
   if (window.aplayers) {
@@ -376,8 +375,6 @@ document.addEventListener('pjax:complete', function () {
 
   // prismjs
   typeof Prism === 'object' && Prism.highlightAll()
-
-  typeof preloader === 'object' && preloader.endLoading()
 })
 
 document.addEventListener('pjax:error', (e) => {

@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>博客一周年啦！MCDiscordChat 发布 | Xujiayao's Blog</title><meta name="keywords" content="Java,Minecraft"><meta name="author" content="Jason,xujiayao147258369@gmail.com"><meta name="copyright" content="Jason"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="MCDiscordChat 已经更新到 2.0.0 - 2022&#x2F;10&#x2F;8 啦！">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>博客一周年啦！MCDiscordChat 发布 | Xujiayao's Blog</title><meta name="author" content="Jason,xujiayao147258369@gmail.com"><meta name="copyright" content="Jason"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="MCDiscordChat 已经更新到 2.0.0 - 2022&#x2F;10&#x2F;8 啦！">
 <meta property="og:type" content="article">
 <meta property="og:title" content="博客一周年啦！MCDiscordChat 发布">
 <meta property="og:url" content="https://blog.xujiayao.top/posts/4ba0a17a/index.html">
@@ -1444,7 +1444,6 @@ document.addEventListener('pjax:send', function () {
   window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
   window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
 
-  typeof preloader === 'object' && preloader.initLoading()
   document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
   
   if (window.aplayers) {
@@ -1490,8 +1489,6 @@ document.addEventListener('pjax:complete', function () {
 
   // prismjs
   typeof Prism === 'object' && Prism.highlightAll()
-
-  typeof preloader === 'object' && preloader.endLoading()
 })
 
 document.addEventListener('pjax:error', (e) => {
