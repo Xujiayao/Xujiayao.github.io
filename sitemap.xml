@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/index.html</loc>
+    <loc>https://blog.xujiayao.top/link/index.html</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/link/index.html</loc>
+    <loc>https://blog.xujiayao.top/tags/index.html</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/6e913454/</loc>
+    <loc>https://blog.xujiayao.top/posts/29edace0/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/29edace0/</loc>
+    <loc>https://blog.xujiayao.top/posts/6e913454/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/1da6e446/</loc>
-    
-    <lastmod>2022-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/posts/62fbd8b8/</loc>
     
     <lastmod>2022-09-09</lastmod>
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/5a8a6c8d/</loc>
+    <loc>https://blog.xujiayao.top/posts/1da6e446/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -120,6 +111,15 @@
   
   <url>
     <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
+    
+    <lastmod>2022-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/posts/5a8a6c8d/</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -197,6 +197,13 @@
   </url>
   
   <url>
+    <loc>https://blog.xujiayao.top/tags/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xujiayao.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,13 +218,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,6 +226,20 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/2020/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/%E6%96%B0%E5%9F%9F%E5%90%8D/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -254,20 +268,6 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/SFTP/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/%E6%96%B0%E5%9F%9F%E5%90%8D/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,6 +304,13 @@
   </url>
   
   <url>
+    <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Windows/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Markdown/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,13 +319,6 @@
   
   <url>
     <loc>https://blog.xujiayao.top/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Windows/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
