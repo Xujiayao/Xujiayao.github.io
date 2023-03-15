@@ -56,25 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/381c7e40/</loc>
-    
-    <lastmod>2023-01-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/posts/5a8a6c8d/</loc>
-    
-    <lastmod>2023-01-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
+    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
     
     <lastmod>2023-01-22</lastmod>
     
@@ -92,7 +74,25 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
+    <loc>https://blog.xujiayao.top/posts/5a8a6c8d/</loc>
+    
+    <lastmod>2023-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/posts/381c7e40/</loc>
+    
+    <lastmod>2023-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
     
     <lastmod>2023-01-22</lastmod>
     
@@ -197,14 +197,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
-    <lastmod>2023-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/Windows-Terminal/</loc>
+    <loc>https://blog.xujiayao.top/tags/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86/</loc>
     <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -225,7 +218,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86/</loc>
+    <loc>https://blog.xujiayao.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
+    <lastmod>2023-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Windows-Terminal/</loc>
     <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -246,20 +246,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2023-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/SFTP/</loc>
-    <lastmod>2023-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/Java/</loc>
     <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -268,6 +254,20 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
+    <lastmod>2023-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2023-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/SFTP/</loc>
     <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,7 +304,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Windows/</loc>
+    <loc>https://blog.xujiayao.top/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,7 +318,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://blog.xujiayao.top/categories/%E6%95%99%E7%A8%8B/Windows/</loc>
     <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
