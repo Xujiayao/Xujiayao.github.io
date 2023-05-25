@@ -16,7 +16,7 @@
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-4FP887EWVP');
-</script><script>const GLOBAL_CONFIG = { 
+</script><script>const GLOBAL_CONFIG = {
   root: '/',
   algolia: undefined,
   localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
@@ -55,7 +55,8 @@ gtag('config', 'G-4FP887EWVP');
   percent: {
     toc: true,
     rightside: false,
-  }
+  },
+  autoDarkmode: false
 }</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
   title: '新年快乐！群日常连飞 ZYHB - ZSAM',
   isPost: true,
@@ -325,7 +326,7 @@ if ('Waline' === 'Waline' || !false) {
         generateHtml(walineArray)
       }).catch(e => {
         const $dom = document.querySelector('#card-newest-comments .aside-list')
-        $dom.innerHTML= "无法获取评论，请确认相关配置是否正确"
+        $dom.textContent= "无法获取评论，请确认相关配置是否正确"
       }) 
     }
 
