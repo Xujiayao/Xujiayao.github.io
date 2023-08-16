@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
+    <loc>https://blog.xujiayao.top/posts/62fbd8b8/</loc>
     
     <lastmod>2023-01-22</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/62fbd8b8/</loc>
+    <loc>https://blog.xujiayao.top/posts/d69370a/</loc>
     
     <lastmod>2023-01-22</lastmod>
     
@@ -101,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/posts/29edace0/</loc>
-    
-    <lastmod>2023-01-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/posts/140ab620/</loc>
     
     <lastmod>2023-01-22</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/link/index.html</loc>
+    <loc>https://blog.xujiayao.top/posts/29edace0/</loc>
     
     <lastmod>2023-01-22</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://blog.xujiayao.top/categories/index.html</loc>
+    
+    <lastmod>2023-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/link/index.html</loc>
     
     <lastmod>2023-01-22</lastmod>
     
@@ -232,20 +232,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xujiayao.top/tags/Java/</loc>
-    <lastmod>2023-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
-    <lastmod>2023-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xujiayao.top/tags/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2023-08-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +240,20 @@
   
   <url>
     <loc>https://blog.xujiayao.top/tags/%E6%96%B0%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2023-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Java/</loc>
+    <lastmod>2023-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xujiayao.top/tags/Minecraft/</loc>
     <lastmod>2023-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
