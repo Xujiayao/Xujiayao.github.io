@@ -12,7 +12,7 @@
 <meta property="article:tag" content="二次元">
 <meta property="article:tag" content="可塑性记忆">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://blog.xujiayao.top/file/posts/d69370a/cover.jpg"><link rel="shortcut icon" href="/file/avatar.png"><link rel="canonical" href="https://blog.xujiayao.top/posts/d69370a/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta name="bing_site_verification" content="725CF7E912C2BFE03EF095630BA437B6"/><meta name="baidu_site_verification" content="code-YGASehDmFC"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-4FP887EWVP"></script><script>window.dataLayer = window.dataLayer || [];
+<meta name="twitter:image" content="https://blog.xujiayao.top/file/posts/d69370a/cover.jpg"><link rel="shortcut icon" href="/file/avatar.png"><link rel="canonical" href="https://blog.xujiayao.top/posts/d69370a/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta name="bing_site_verification" content="725CF7E912C2BFE03EF095630BA437B6"/><meta name="baidu_site_verification" content="code-YGASehDmFC"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-4FP887EWVP"></script><script>window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-4FP887EWVP');
@@ -22,7 +22,7 @@ gtag('config', 'G-4FP887EWVP');
   localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
   translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
   noticeOutdate: undefined,
-  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
   copy: {
     success: '复制成功',
     error: '复制错误',
@@ -168,7 +168,7 @@ gtag('config', 'G-4FP887EWVP');
 <p><strong>注：《Ring of Fortune》和《朝焼けのスターマイン》这两首歌无法播放是正常的！至于什么时候能恢复播放嘛。。。等 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://y.qq.com/">QQ音乐</a> 取消这两首歌的 VIP 吧 ╮(╯-╰)╭</strong></p>
 </blockquote>
 
-    <div id="aplayer-yMQeVMNd" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-JemqyATt" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7803471155" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
@@ -312,7 +312,7 @@ gtag('config', 'G-4FP887EWVP');
     }
 
     let $dom = document.querySelector('#card-newest-comments .aside-list')
-    $dom.innerHTML= result
+    $dom && ($dom.innerHTML= result)
     window.lazyLoadInstance && window.lazyLoadInstance.update()
     window.pjax && window.pjax.refresh($dom)
   }
