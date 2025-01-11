@@ -3955,6 +3955,10 @@ figure.highlight pre .javascript .function {
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  border-radius: 6px;
+}
+#nav .site-page:not(.child):hover:after {
+  width: 100%;
 }
 #page-header {
   background: transparent !important;
