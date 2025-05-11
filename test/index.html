@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>JSON数据显示示例</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        #result {
+            width: 300px;
+            height: 150px;
+            margin-top: 20px;
+            padding: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>JSON数据读取示例</h1>
+    <button onclick="loadData()">加载数据</button>
+    <br>
+    <textarea id="result" placeholder="这里将显示姓名..."></textarea>
+
+    <script>
+        function loadData() {
+            // 发起fetch请求获取JSON数据
+            fetch('test.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('网络响应不正常');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // 检查数据是否包含name数组
+                    if (data.name && Array.isArray(data.name)) {
+                        // 将数组转换为换行显示的字符串
+                        document.getElementById('result').value = data.name.join('\n');
+                    } else {
+                        throw new Error('JSON格式不符合预期');
+                    }
+                })
+                .catch(error => {
+                    console.error('获取数据时出现问题:', error);
+                    document.getElementById('result').value = '错误：' + error.message;
+                });
+        }
+    </script>
+</body>
+</html>
