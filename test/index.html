@@ -30,7 +30,7 @@
     <script>
         function loadData() {
             // 发起fetch请求获取JSON数据
-            fetch('test.json')
+            fetch('/test/test.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('网络响应不正常');
